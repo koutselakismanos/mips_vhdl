@@ -1,0 +1,1 @@
+sch2hdl,-sympath,/home/ise/mips/ipcore_dir,-intstyle,ise,-family,spartan3,-flat,-suppress,-vhdl,/home/ise/mips/mips_schematic.vhf,-w,/home/ise/mips/mips_schematic.sch

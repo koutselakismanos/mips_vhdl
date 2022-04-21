@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/mips/control_unit_test_isim_beh.exe" -prj "/home/ise/mips/control_unit_test_beh.prj" "work.control_unit_test" 

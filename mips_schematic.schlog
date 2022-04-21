@@ -1,0 +1,18 @@
+select figure at 1147 1193 8 -branches -sn=1
+select figure at 1740 1407 8 -branches -sn=1
+select figure at 1943 1356 8 -branches -sn=1
+select figure at 2141 1110 8 -branches -sn=1
+select all in 2141 1110 2294 1122 -branches -enclosed -sn=1
+select figure at 2575 1045 8 -branches -sn=1
+select all in 852 1045 2575 1584 -branches -enclosed -sn=1
+select figure at 892 1552 8 -branches -sn=1
+select figure at 1480 1325 8 -branches -sn=1
+move instance at 1328 1088 to 1280 1104 R0 -keepConn -sn=1
+undo
+select figure at 2432 1336 8 -branches -sn=1
+select figure at 860 1027 8 -branches -sn=1
+select all in 860 1027 2578 1619 -branches -enclosed -sn=1
+select figure at 2110 1306 8 -branches -sn=1
+select figure at 2159 1087 8 -branches -sn=1
+select all in 895 1009 2626 1548 -branches -enclosed -sn=1
+delete selection -sn=1
